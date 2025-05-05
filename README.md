@@ -1,4 +1,4 @@
-# VenomZeroEsp8266 (EvilHostpot)
+# VenomZeroEsp8266 (EvilHotspot)
 ![logo](image/IMG_20250504_212145.png)
 Capture password and SMS code by registering in WiFi, and create fake hotspot.
 Powered by esp8276 (nodemcu)
